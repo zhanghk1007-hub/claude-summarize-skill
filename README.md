@@ -2,7 +2,10 @@
 
 自动将 Claude Code 对话归档为精美的 HTML 能力分析报告。
 
-![preview](docs/preview.png)
+<img width="682" height="776" alt="image" src="https://github.com/user-attachments/assets/f4a11301-30b6-4ac3-a505-8c09a71daa1e" />
+
+<img width="690" height="555" alt="image" src="https://github.com/user-attachments/assets/554d5e77-ca6a-4af2-8a70-86c152879825" />
+
 
 ## 功能
 
